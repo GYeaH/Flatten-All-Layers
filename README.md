@@ -19,7 +19,7 @@ PS file<br>
   .<br>
   .<br>
 
-Currently it has been provide can fit the situation below in my work.<br>
+Currently it fit the situation below in my work.<br>
 1. Layer's visibility didn't turned on<br>
 2. Layer when interior opaticy set to be 0% (shape only have outline)<br>
 3. Layer with additional effects<br>
