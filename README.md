@@ -5,15 +5,15 @@ Script was written based on working layer structure. <br>
 One PS file contains several layerset, every layerset contains one or several layers with no sub-layerset:<br>
 
 PS file<br>
-  |_ LayerSet specified name No.1<br>
-&nbsp;&nbsp;|_ layer specified name 1<br>
-&nbsp;&nbsp;|_ layer specified name 2<br>
+  |_ LayerSet_1<br>
+&nbsp;&nbsp;|_ layer_1<br>
+&nbsp;&nbsp;|_ layer_2<br>
 &nbsp;&nbsp;...<br>
-  |_ LayerSet specified name No.2<br>
-&nbsp;&nbsp;|_ layer specified name 1<br>
+  |_ LayerSet_2<br>
+&nbsp;&nbsp;|_ layer_1<br>
 &nbsp;&nbsp;...<br>
-  |_ LayerSet specified name No.3<br>
-&nbsp;&nbsp;|_ layer specified name 1<br>
+  |_ LayerSet_3<br>
+&nbsp;&nbsp;|_ layer_1<br>
 &nbsp;&nbsp;...<br>
   .<br>
   .<br>
